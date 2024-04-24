@@ -1,14 +1,14 @@
 {
     "name": "martian_api",
-    "description": "",
+    "description": "A simple API to convert Markdown to JSON blocks using @tryfabric/martian.",
     "version": "1.0.0",
-    "entrypoint": "index.js",
+    "main": "index.js",
     "type": "module",
     "scripts": {
       "start": "node .",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "packages": {
+    "dependencies": {
         "express": "^4.19.2",
         "@tryfabric/martian": "^1.2.4"
     },
