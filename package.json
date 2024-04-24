@@ -10,8 +10,8 @@
     },
     "packages": {
         "express": "^4.19.2",
-        "@tryfabric/martian": "^1.2.4",
-    }
+        "@tryfabric/martian": "^1.2.4"
+    },
     "repository": {
       "type": "git",
       "url": "https://github.com/monatheoctocat/martian_api.git"
