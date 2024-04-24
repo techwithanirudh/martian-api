@@ -1,0 +1,21 @@
+{
+    "name": "martian_api",
+    "description": "",
+    "version": "1.0.0",
+    "entrypoint": "index.js",
+    "scripts": {
+      "start": "node .",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/monatheoctocat/martian_api.git"
+    },
+    "keywords": [],
+    "author": "techwithanirudh",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/techwithanirudh/martian_api/issues"
+    },
+    "homepage": "https://github.com/monatheoctocat/martian_api"
+}
